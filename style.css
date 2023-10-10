@@ -30,30 +30,30 @@ p{
     background-color: white;
 }
 .Q{ 
-    background-image: url("/images/crash.png");
+    background-image: url("images/crash.png");
 }
 
 .W{ 
-    background-image: url("/images/kick.png");
+    background-image: url("images/kick.png");
 }
 
 .E{ 
-    background-image: url("/images/snare.png");
+    background-image: url("images/snare.png");
 }
 .R{ 
-    background-image: url("/images/tom1.png");
+    background-image: url("images/tom1.png");
 }
 
 .T{ 
-    background-image: url("/images/tom2.png");
+    background-image: url("images/tom2.png");
 }
 
 .Y{ 
-    background-image: url("/images/tom3.png");
+    background-image: url("images/tom3.png");
 }
 
 .U{ 
-    background-image: url("/images/tom4.png");
+    background-image: url("images/tom4.png");
 }
 .pressed{
     color: #ffffff;
